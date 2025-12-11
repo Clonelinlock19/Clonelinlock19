@@ -2,7 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=midnightchances&color=565867&label=⛏️">
 </p>
 
-[![Screenshot-2025-12-08-135113.png](https://i.postimg.cc/T2QsPfdV/Screenshot-2025-12-08-135113.png)](https://postimg.cc/XXGLHMyq)
+<p align="center">
+<img src="[![Screenshot-2025-12-08-135113.png](https://i.postimg.cc/mrGjw5ZY/Screenshot-2025-12-08-135113.png)](https://postimg.cc/JsPj7Kk0)">
+</p>
 
 <p align="center">
 Clonelinlock19
