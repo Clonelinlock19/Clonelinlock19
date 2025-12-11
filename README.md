@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=midnightchances&color=565867&label=🪓">
+<img src="https://komarev.com/ghpvc/?username=midnightchances&color=565867&label=⛏️">
 </p>
 
-[![Screenshot-2025-10-20-113825.png](https://i.postimg.cc/W1JcS3j3/Screenshot-2025-10-20-113825.png)](https://postimg.cc/87DYzT7Q)
+[![Screenshot-2025-12-08-135113.png](https://i.postimg.cc/T2QsPfdV/Screenshot-2025-12-08-135113.png)](https://postimg.cc/XXGLHMyq)
 
 <p align="center">
-MidnightChances, OSDD system.
+Clonelinlock19
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ MidnightChances, OSDD system.
   Strawpage
 </p>
 <p align="center">
-https://axefaces.straw.page
+https://collinlocked16.straw.page
 </p>
 
 
